@@ -177,7 +177,7 @@ AI-assisted phishing and vishing detection platform.
 
 ---
 
-# 🎯 Goals for 2026
+# 🎯 STILL CONTRIBUTING 
 
 - ✅ Build Professional Offensive Security Tools
 
